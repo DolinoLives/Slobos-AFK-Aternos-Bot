@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DolinoLivesBOT",
+    "username": "DolinoLives",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ISHCMCSMP.aternos.me",
-    "port": 19454,
+    "ip": "ISHCMCSMP.play.hosting",
+    "port": 30213,
     "version": "",
     "try-creative": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
