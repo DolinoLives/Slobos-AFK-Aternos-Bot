@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ISHCMCSMP.play.hosting",
+    "ip": "127.0.0.1:33919",
     "port": 33919,
     "version": "",
     "try-creative": false
