@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ISHCMCSMP.play.hosting",
-    "port": 39578,
+    "ip": "brokencodesmpsctp.aternos.me",
+    "port": 26488,
     "version": "",
     "try-creative": false
   },
