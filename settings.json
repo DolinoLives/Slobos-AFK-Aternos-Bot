@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DolinoLiveesBOT1",
+    "username": "DolinoLiveesBOT12",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "brokencodesmpsctp.aternos.me",
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
